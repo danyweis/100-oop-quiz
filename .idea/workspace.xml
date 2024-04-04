@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43caf174-cbf8-44ee-8162-d5b921e4614c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/100-17-oop-quiz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_brain.py" afterDir="false" />
-    </list>
+    <list default="true" id="43caf174-cbf8-44ee-8162-d5b921e4614c" name="Changes" comment="finished the project in oop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +53,20 @@
       <option name="presentableId" value="Default" />
       <updated>1712123457985</updated>
     </task>
+    <task id="LOCAL-00001" summary="finished the project in oop">
+      <option name="closed" value="true" />
+      <created>1712207690143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712207690143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished the project in oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the project in oop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
